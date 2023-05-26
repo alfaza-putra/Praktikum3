@@ -24,6 +24,7 @@ Praktikum 3
 •	Menghapus data pada table dosen
 ![output](https://github.com/alfaza-putra/Praktikum3/blob/main/screnshootpraktikum3/ss8.png)
 
+
 Pertanyaan :
 
 Apa bedanya penggunaan RESTRIC dan penggunaan CASCADE !
